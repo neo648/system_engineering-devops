@@ -1,3 +1,2 @@
-cd system_engineering-devops/0x02-shell_redirections
-echo '#!/bin/bash' > 1-confused_smiley
-echo 'echo '"'"'(Ôo)'"'"'' >> 1-confused_smiley
+#!/bin/bash
+echo "\"(Ôo)'"
